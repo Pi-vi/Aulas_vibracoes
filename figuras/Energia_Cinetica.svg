@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.0485264"
-     inkscape:cx="218.20563"
-     inkscape:cy="422.01066"
+     inkscape:zoom="1.4485269"
+     inkscape:cx="288.56902"
+     inkscape:cy="489.80794"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -96,7 +96,7 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-25.571955,-48.273048)"><rect
+     transform="translate(-25.572, -48.273)"><rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.7;stroke-dasharray:none"
        id="rect1"
        width="14.723998"
@@ -1827,12 +1827,56 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,24.828733,44.143055)"
        id="text369"
-       style="font-size:16px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;white-space:pre;shape-inside:url(#rect369);fill:#1a1a1a;stroke:none;stroke-width:1.13386;stroke-dasharray:none"
+       style="font-size:16px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;white-space:pre;shape-inside:url(#rect369);display:inline;fill:#1a1a1a;stroke:none;stroke-width:1.13386;stroke-dasharray:none"
        x="50.320312"
        y="0"><tspan
          x="44.901367"
          y="505.08398"
-         id="tspan1">Rolamento sem </tspan><tspan
+         id="tspan3">Rolamento sem </tspan><tspan
          x="52.432617"
          y="525.08398"
-         id="tspan2">deslizamento</tspan></text></g></svg>
+         id="tspan4">deslizamento</tspan></text><path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
+       d="M 44.522601,225.08485 H 62.788285"
+       id="path369" /><path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;marker-start:url(#Triangle)"
+       id="path370"
+       sodipodi:type="arc"
+       sodipodi:cx="44.705257"
+       sodipodi:cy="225.0392"
+       sodipodi:rx="9.1328411"
+       sodipodi:ry="9.1328411"
+       sodipodi:start="5.6112893"
+       sodipodi:end="0.0071942974"
+       sodipodi:arc-type="arc"
+       d="m 51.85301,219.35427 a 9.1328411,9.1328411 0 0 1 1.984852,5.75063"
+       sodipodi:open="true" /><g
+       inkscape:label=""
+       transform="translate(54.567963,218.27705)"
+       id="g375"><g
+   fill="#000000"
+   fill-opacity="1"
+   id="g372"
+   transform="matrix(0.352778,0,0,0.352778,-0.989718,-0.627812)">
+    <g
+   id="g371"
+   transform="translate(1.993,10.889)">
+      <path
+   d="m 9.109375,-8.90625 c 0,-0.09375 -0.078125,-0.1875 -0.1875,-0.1875 -0.15625,0 -0.96875,0.75 -1.359375,1.46875 -0.375,-0.921875 -1.015625,-1.484375 -1.90625,-1.484375 -2.328125,0 -4.84375,3.015625 -4.84375,6.078125 0,2.046875 1.1875,3.234375 2.59375,3.234375 1.09375,0 2,-0.828125 2.4375,-1.296875 l 0.015625,0.015625 -0.78125,3.109375 -0.1875,0.734375 c -0.1875,0.625 -0.484375,0.625 -1.46875,0.640625 C 3.203125,3.40625 3,3.40625 3,3.796875 3,3.953125 3.125,4 3.265625,4 3.546875,4 3.921875,3.96875 4.21875,3.96875 H 6.328125 C 6.625,3.96875 6.984375,4 7.296875,4 7.421875,4 7.65625,4 7.65625,3.609375 7.65625,3.40625 7.5,3.40625 7.1875,3.40625 6.21875,3.40625 6.15625,3.265625 6.15625,3.09375 6.15625,3 6.171875,2.96875 6.234375,2.703125 Z m -2.90625,6.453125 C 6.09375,-2.109375 6.09375,-2.0625 5.796875,-1.671875 5.34375,-1.09375 4.4375,-0.203125 3.46875,-0.203125 c -0.84375,0 -1.328125,-0.765625 -1.328125,-1.984375 0,-1.140625 0.640625,-3.453125 1.046875,-4.3125 0.703125,-1.453125 1.671875,-2.203125 2.46875,-2.203125 1.359375,0 1.640625,1.703125 1.640625,1.859375 0,0.03125 -0.0625,0.296875 -0.09375,0.34375 z m 0,0"
+   id="path371" />
+    </g>
+  </g>
+  <g
+   fill="#000000"
+   fill-opacity="1"
+   id="g374"
+   transform="matrix(0.352778,0,0,0.352778,-0.989718,-0.627812)">
+    <g
+   id="g373"
+   transform="translate(10.963,13.988)">
+      <path
+   d="m 4.125,-9.1875 c 0,-0.34375 0,-0.34375 -0.28125,-0.34375 C 3.5,-9.15625 2.78125,-8.625 1.3125,-8.625 v 0.421875 c 0.328125,0 1.046875,0 1.828125,-0.375 v 7.46875 c 0,0.515625 -0.046875,0.6875 -1.296875,0.6875 H 1.390625 V 0 c 0.390625,-0.03125 1.78125,-0.03125 2.25,-0.03125 0.46875,0 1.859375,0 2.234375,0.03125 V -0.421875 H 5.4375 c -1.265625,0 -1.3125,-0.171875 -1.3125,-0.6875 z m 0,0"
+   id="path372" />
+    </g>
+  </g>
+</g></g></svg>
